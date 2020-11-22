@@ -1,1 +1,1 @@
-# technologies-insights
+# technology-insights
