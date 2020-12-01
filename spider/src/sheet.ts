@@ -35,9 +35,12 @@ export default async ({ cells }: ISheetProps): Promise<void> => {
     const worksheet = workbook.addWorksheet(cells[i].title);
     const rows = await spider({ sectionId: cells[i].sectionId });
 
+    worksheet.cell(1, 1).string('tech');
+    worksheet.cell(1, 2).string('percentage');
+
     rows.forEach((row, index) => {
-      worksheet.cell(index + 1, 1).string(row.name);
-      worksheet.cell(index + 1, 2).number(row.percentage);
+      worksheet.cell(index + 2, 1).string(row.name);
+      worksheet.cell(index + 2, 2).number(row.percentage);
     });
   }
 
