@@ -5,12 +5,10 @@
 
 ### Clonando o repositório
 ```bin
-python3 init.py
+git clone github.com/ribeirogab/technology-insights.git
 ```
 
 ### Rodando a aplicação
-
-if you use npm
 ```bin
 python3 init.py
 ```
