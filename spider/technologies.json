@@ -1,0 +1,132 @@
+{
+  "languages": [
+    {
+      "topic": "popular",
+      "topicTitle": "Most Popular Technologies",
+      "title": "Programming, Scripting, and Markup Languages",
+      "sectionId": "technology-programming-scripting-and-markup-languages-all-respondents"
+    },
+    {
+      "topic": "loved",
+      "topicTitle": "Most Loved, Dreaded, and Wanted",
+      "title": "Most Loved Languages",
+      "sectionId": "technology-most-loved-dreaded-and-wanted-languages-loved"
+    },
+    {
+      "topic": "dreaded",
+      "topicTitle": "Most Loved, Dreaded, and Wanted",
+      "title": "Most Dreaded Languages",
+      "sectionId": "technology-most-loved-dreaded-and-wanted-languages-dreaded"
+    },
+    {
+      "topic": "wanted",
+      "topicTitle": "Most Loved, Dreaded, and Wanted",
+      "title": "Most Wanted Languages",
+      "sectionId": "technology-most-loved-dreaded-and-wanted-languages-wanted"
+    }
+  ],
+  "frameworks": [
+    {
+      "topic": "popular",
+      "topicTitle": "Most Popular Technologies",
+      "title": "Web Frameworks",
+      "sectionId": "technology-web-frameworks-all-respondents2"
+    },
+    {
+      "topic": "loved",
+      "topicTitle": "Most Loved, Dreaded, and Wanted",
+      "title": "Most Loved Web Frameworks",
+      "sectionId": "technology-most-loved-dreaded-and-wanted-web-frameworks-loved2"
+    },
+    {
+      "topic": "dreaded",
+      "topicTitle": "Most Loved, Dreaded, and Wanted",
+      "title": "Most Dreaded Web Frameworks",
+      "sectionId": "technology-most-loved-dreaded-and-wanted-web-frameworks-dreaded2"
+    },
+    {
+      "topic": "wanted",
+      "topicTitle": "Most Loved, Dreaded, and Wanted",
+      "title": "Most Wanted Web Frameworks",
+      "sectionId": "technology-most-loved-dreaded-and-wanted-web-frameworks-wanted2"
+    }
+  ],
+  "tools": [
+    {
+      "topic": "popular",
+      "topicTitle": "Most Popular Technologies",
+      "title": "Other Frameworks, Libraries, and Tools",
+      "sectionId": "technology-other-frameworks-libraries-and-tools-all-respondents3"
+    },
+    {
+      "topic": "loved",
+      "topicTitle": "Most Loved, Dreaded, and Wanted Other Frameworks, Libraries, and Tools",
+      "title": "Most Loved Other Frameworks, Libraries, and Tools",
+      "sectionId": "technology-most-loved-dreaded-and-wanted-other-frameworks-libraries-and-tools-loved3"
+    },
+    {
+      "topic": "dreaded",
+      "topicTitle": "Most Loved, Dreaded, and Wanted Other Frameworks, Libraries, and Tools",
+      "title": "Most Dreaded Other Frameworks, Libraries, and Tools",
+      "sectionId": "technology-most-loved-dreaded-and-wanted-other-frameworks-libraries-and-tools-dreaded3"
+    },
+    {
+      "topic": "wanted",
+      "topicTitle": "Most Loved, Dreaded, and Wanted Other Frameworks, Libraries, and Tools",
+      "title": "Most Wanted Other Frameworks, Libraries, and Tools",
+      "sectionId": "technology-most-loved-dreaded-and-wanted-other-frameworks-libraries-and-tools-wanted3"
+    }
+  ],
+  "databases": [
+    {
+      "topic": "popular",
+      "topicTitle": "Most Popular Technologies",
+      "title": "Databases",
+      "sectionId": "technology-databases-all-respondents4"
+    },
+    {
+      "topic": "loved",
+      "topicTitle": "Most Loved, Dreaded, and Wanted",
+      "title": "Most Loved Databases",
+      "sectionId": "technology-most-loved-dreaded-and-wanted-databases-loved4"
+    },
+    {
+      "topic": "dreaded",
+      "topicTitle": "Most Loved, Dreaded, and Wanted",
+      "title": "Most Dreaded Databases",
+      "sectionId": "technology-most-loved-dreaded-and-wanted-databases-dreaded4"
+    },
+    {
+      "topic": "wanted",
+      "topicTitle": "Most Loved, Dreaded, and Wanted",
+      "title": "Most Wanted Databases",
+      "sectionId": "technology-most-loved-dreaded-and-wanted-databases-wanted4"
+    }
+  ],
+  "platforms": [
+    {
+      "topic": "popular",
+      "topicTitle": "Most Popular Technologies",
+      "title": "Platforms",
+      "sectionId": "technology-platforms-all-respondents5"
+    },
+    {
+      "topic": "loved",
+      "topicTitle": "Most Loved, Dreaded, and Wanted",
+      "title": "Most Loved Platforms",
+      "sectionId": "technology-most-loved-dreaded-and-wanted-platforms-loved5"
+    },
+    {
+      "topic": "dreaded",
+      "topicTitle": "Most Loved, Dreaded, and Wanted",
+      "title": "Most Dreaded Platforms",
+      "sectionId": "technology-most-loved-dreaded-and-wanted-platforms-dreaded5"
+    },
+    {
+      "topic": "wanted",
+      "topicTitle": "Most Loved, Dreaded, and Wanted",
+      "title": "Most Wanted Platforms",
+      "sectionId": "technology-most-loved-dreaded-and-wanted-platforms-wanted5"
+    }
+  ]
+}
